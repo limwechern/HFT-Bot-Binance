@@ -1,0 +1,9 @@
+websocket-client
+jsonpickle 
+numpy 
+datetime 
+requests 
+python-binance 
+binance.py
+binance-futures
+pyTelegramBotAPI
