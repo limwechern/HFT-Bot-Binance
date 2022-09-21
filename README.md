@@ -1,5 +1,5 @@
 # HFT Bot Binance Futures
-High Frequency Trading bot using 
+High Frequency Trading algorithm to trade Perpetual Futures Contracts on Binance
 
 ### Python Libraries (For Technical Analysis):
 - Tulipy
