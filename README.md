@@ -11,13 +11,13 @@ High Frequency Trading bot using
 <ul>
 <li> Binance API</li>
   <li> Websocket to obtain stream of the latest market price of the specified trading pair </li>
-  - REST API to execute Futures trades
-- Taapi API
-  - To obtain additional Technical Analysis info
-- Telegram API
-  - Start/Stop the bot
-  - Displays all buy/sell trades and whether they are long/short positions
-  - Displays profit/loss
+  <li> REST API to execute Futures trades</li>
+<li> Taapi API</li>
+  <li> To obtain additional Technical Analysis info</li>
+<li> Telegram API</li>
+  <li> Start/Stop the bot</li>
+  <li> Displays all buy/sell trades and whether they are long/short positions</li>
+  <li> Displays profit/loss</li>
  </ul>
 <br> 
   
