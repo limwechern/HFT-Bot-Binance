@@ -23,3 +23,6 @@ High Frequency Trading bot using
   - Useful for testing different Technical Analysis Indicators
 - Set Backtesting to false
   - To execute real trades using your Binance account 
+
+### Docker
+- Can be Dockerized & deployed on AWS EC2 Instances
