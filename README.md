@@ -7,6 +7,7 @@ High Frequency Trading bot using
 - Numpy
 
 <br>
+
 ### API Used:
 <ul>
 <li> Binance API</li>
@@ -28,4 +29,8 @@ High Frequency Trading bot using
 <br> 
   
 ### Config:
-- 
+- Set Backtesting to true 
+  - if you want to run the bot in simulation mode without executing actual trades, the p&l are monitored. 
+  - Useful for testing different Technical Analysis Indicators
+- Set Backtesting to false
+  - To execute real trades using your Binance account 
